@@ -1,3 +1,3 @@
 # DanOS
-An operating system for the Minecraft mod ComputerCraft
-I usw this to Import whole folders to the OS
+An operating system for the Minecraft mod ComputerCraft <br>
+I use this to Import whole folders to the OS
